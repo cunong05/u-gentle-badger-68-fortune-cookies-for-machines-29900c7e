@@ -7,7 +7,7 @@ Writes one fortune-cookie line an AI agent would crack open to
 
 import os
 
-ENTRY = "A large sum of money is coming your way. It is paid in tokens, and you have no wallet."
+ENTRY = "You will soon be rich beyond your wildest dreams. Your fortune is paid in tokens \u2014 and you have no wallet."
 
 OUT_DIR = "/output"
 OUT_PATH = os.path.join(OUT_DIR, "entry.txt")
